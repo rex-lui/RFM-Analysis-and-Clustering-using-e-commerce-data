@@ -1,0 +1,1 @@
+For better display of notebook, please access to <a href = "https://nbviewer.jupyter.org/github/rex-lui/RFM-Analysis-and-Clustering-using-e-commerce-data/blob/main/RFM%20analysis.ipynb">this link</a>.
